@@ -1,0 +1,16 @@
+2024-01-04 23:57:29.783 [info] Extension host with pid 28587 started
+2024-01-04 23:57:29.841 [info] Lock '/home/zhu/.vscode-server/data/User/workspaceStorage/6cafec82f6107a79e13a584d79beb18d/vscode.lock': Lock acquired.
+2024-01-04 23:57:29.908 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-01-04 23:57:29.954 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-04 23:57:30.335 [info] Eager extensions activated
+2024-01-04 23:57:30.335 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-04 23:57:30.336 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-04 23:57:32.563 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-01-04 23:57:34.848 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+2024-01-04 23:57:37.520 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+2024-01-04 23:57:42.330 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-04 23:58:28.212 [info] Extension host terminating: received terminate message from renderer
+2024-01-04 23:58:28.212 [info] Lock '/home/zhu/.vscode-server/data/User/workspaceStorage/6cafec82f6107a79e13a584d79beb18d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-01-04 23:58:28.287 [info] Extension host with pid 28587 exiting with code 0

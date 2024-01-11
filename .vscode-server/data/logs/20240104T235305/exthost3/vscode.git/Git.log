@@ -1,0 +1,4 @@
+2024-01-04 23:57:32.709 [info] Log level: Info
+2024-01-04 23:57:32.709 [info] Validating found git in: "git"
+2024-01-04 23:57:32.710 [warning] Unable to find git. Error: spawn git ENOENT
+2024-01-04 23:57:32.710 [warning] Git installation not found.

@@ -1,0 +1,22 @@
+2024-01-04 23:53:10.280 [info] Extension host with pid 28245 started
+2024-01-04 23:53:10.415 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-04 23:53:10.416 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-04 23:53:10.417 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-04 23:53:11.616 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-04 23:53:11.802 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-04 23:53:11.803 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-04 23:53:12.386 [info] Eager extensions activated
+2024-01-04 23:53:12.387 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-04 23:53:12.387 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-04 23:53:14.338 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+2024-01-04 23:53:14.419 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+2024-01-04 23:53:17.258 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+2024-01-04 23:53:17.506 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+2024-01-04 23:55:44.099 [info] Extension host terminating: received terminate message from renderer
+2024-01-04 23:55:44.215 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+2024-01-04 23:55:44.234 [info] Extension host with pid 28245 exiting with code 0

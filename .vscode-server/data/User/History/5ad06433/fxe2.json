@@ -1,0 +1,9 @@
+{
+    "remote.SSH.showLoginTerminal": true,
+    "remote.SSH.configFile": "C:\\Users\\Administrator\\.ssh\\config",
+    "workbench.iconTheme": "vscode-icons",
+    "remote.SSH.path": "D:\\Applications\\Git\\usr\bin\\ssh.exe",
+    "remote.SSH.remotePlatform": {
+        "192.168.0.1": "linux"
+    }
+}
